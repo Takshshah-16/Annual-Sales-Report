@@ -57,7 +57,7 @@ This project involves analyzing the annual sales data of a store for the year 20
 ---
 
 ## Instructions to Use the Dashboard
-1. Open the Excel file: **`Store_Sales_2024.xlsx`**.
+1. Open the Excel file: **`Taksh Project 1.xlsx`**.
 2. Use the slicers to filter data based on:
    - Month
    - Sales Channel
