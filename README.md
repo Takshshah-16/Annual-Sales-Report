@@ -57,7 +57,7 @@ This project involves analyzing the annual sales data of a store for the year 20
 ---
 
 ## Instructions to Use the Dashboard
-1. Open the Excel file: [Download the Sales Analysis Dashboard](https://github.com/Takshshah-16/Annual-Sales-Report/raw/main/Sales_Analysis_FNP.xlsx)
+1. Open the Excel file: [Download the Sales Analysis Dashboard](https://github.com/Takshshah-16/Annual-Sales-Report/raw/main/TakshProject%102.xlsx)
 .
 2. Go to the dashboard sheet and use the slicers to filter data based on:
    - Month
