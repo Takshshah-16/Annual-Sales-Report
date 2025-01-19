@@ -1,6 +1,10 @@
 # Excel-Project-1
 # Store Sales Analysis Dashboard (2024)
 
+### **Problem Statement**
+
+The store faces challenges in understanding its annual sales dynamics, customer demographics, and channel performance, hindering its ability to optimize strategies for revenue growth and operational efficiency. With datasets encompassing order details, customer demographics, and sales channel performance, the business needed a centralized solution to visualize critical insights such as monthly sales trends, top-performing regions, and customer purchasing behaviors. Gender and age group segmentation reveal significant contributions by women and adults, while sales peaks and troughs indicate opportunities for targeted marketing efforts. The **Store Sales Analysis Dashboard (2024)** was developed using **Microsoft Excel** and **VBA**, featuring interactive slicers, advanced pivot tables, and dynamic visualizations to empower the business with actionable insights and enable data-driven decision-making for sustained growth and improved customer satisfaction. 
+
 ## Project Overview
 This project involves analyzing the annual sales data of a store for the year 2024 using **Microsoft Excel** and **VBA (Visual Basic for Applications)**. The objective is to understand customer behavior, sales patterns, and operational metrics to help the business make informed decisions and predict sales for the coming year. The interactive dashboard provides comprehensive insights through visualizations and slicer-driven interactions.
 
